@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bandit/Level 22-23.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "25efd63d5b8fb8a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/PrimerParcial/Warmed Up.md",
+                "file": "bandit/Level 32-33.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/PrimerParcial/Warmed Up.md",
+                "file": "bandit/Level 32-33.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/PrimerParcial/Warmed Up.md",
+                "file": "bandit/Level 32-33.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/PrimerParcial/Warmed Up.md"
+                "file": "bandit/Level 32-33.md"
               }
             }
           }
@@ -159,11 +146,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "25efd63d5b8fb8a4",
+  "active": "391275ee7b3d64ce",
   "lastOpenFiles": [
-    "picoCTF/PrimerParcial/what's a net cat?.md",
+    "bandit/Level 31-32.md",
+    "bandit/Level 32-33.md",
+    "bandit/template.md",
+    "bandit/Untitled.md",
+    "bandit/Level 30-31.md",
+    "bandit/Level 29-30.md",
+    "bandit/Level 28-29.md",
+    "bandit/Level 27-28.md",
+    "bandit/Level 26-27.md",
+    "bandit/Level 25-26.md",
+    "bandit/Level 24-25.md",
+    "picoCTF/PrimerParcial/2Warm.md",
     "picoCTF/template 1.md",
     "picoCTF/PrimerParcial/Warmed Up.md",
+    "picoCTF/PrimerParcial/what's a net cat?.md",
     "picoCTF/PrimerParcial/Lets Warm Up.md",
     "picoCTF/PrimerParcial/Tab, Tab, Attack.md",
     "picoCTF/PrimerParcial/Wave a flag.md",
@@ -172,24 +171,12 @@
     "picoCTF/PrimerParcial/Untitled",
     "picoCTF/PrimerParcial/Mod 25.md",
     "picoCTF/PrimerParcial/Obidiant cat.md",
-    "bandit/template.md",
     "picoCTF/PrimerParcial",
     "picoCTF/wave a flag.md",
     "picoCTF/Obidient cat.md",
     "readme.md",
-    "bandit/Level 24-25.md",
     "picoCTF",
     "Untitled",
-    "bandit/Level 23-24.md",
-    "bandit/level0.md",
-    "bandit/Level 22-23.md",
-    "bandit/Level 17-18.md",
-    "bandit/Level 18-19.md",
-    "bandit/Level 19-20.md",
-    "bandit/Level 20-21.md",
-    "bandit/Level 21-22.md",
-    "bandit/Level 16-17.md",
-    "bandit/Level 15-16.md",
-    "bandit/Level 6-7.md"
+    "bandit/Level 23-24.md"
   ]
 }
