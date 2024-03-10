@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/retosweb2/Irish-Name-Repo 1.md",
+                "file": "picoCTF/retosWeb3/Cookies.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/retosweb2/Irish-Name-Repo 1.md",
+                "file": "picoCTF/retosWeb3/Cookies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/retosweb2/Irish-Name-Repo 1.md",
+                "file": "picoCTF/retosWeb3/Cookies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/retosweb2/Irish-Name-Repo 1.md"
+                "file": "picoCTF/retosWeb3/Cookies.md"
               }
             }
           }
@@ -148,13 +148,19 @@
   },
   "active": "391275ee7b3d64ce",
   "lastOpenFiles": [
+    "picoCTF/retosWeb3/GET aHEAD.md",
+    "picoCTF/retosWeb3/Scavenger Hunt.md",
+    "picoCTF/retosWeb3/Cookies.md",
+    "picoCTF/template 1.md",
+    "readme.md",
+    "picoCTF/retosWeb3",
+    "picoCTF/PrimerParcial/retosweb2",
+    "picoCTF/retosweb2/Irish-Name-Repo 1.md",
     "picoCTF/retosweb2/Irish-Name-Repo 2.md",
     "picoCTF/retosweb2/Irish-Name-Repo 3.md",
-    "picoCTF/retosweb2/Irish-Name-Repo 1.md",
     "picoCTF/retosweb2/JaWT Scratchpad.md",
     "picoCTF/PrimerParcial/JaWT Scratchpad.md",
     "picoCTF/retosweb2",
-    "picoCTF/template 1.md",
     "picoCTF/PrimerParcial/Irish-Name-Repo 3.md",
     "picoCTF/PrimerParcial/Irish-Name-Repo 2.md",
     "picoCTF/PrimerParcial/Irish-Name-Repo 1.md",
@@ -171,12 +177,7 @@
     "picoCTF/PrimerParcial/Nice netcat....md",
     "picoCTF/PrimerParcial/Wave a flag.md",
     "picoCTF/PrimerParcial/strings it.md",
-    "picoCTF/PrimerParcial/First Grep.md",
-    "picoCTF/PrimerParcial/Lets Warm Up.md",
-    "picoCTF/PrimerParcial/convertme.py.md",
-    "picoCTF/PrimerParcial/Codebook.md",
     "picoCTF/retosWeb1",
-    "picoCTF/PrimerParcial/Untitled",
     "picoCTF/PrimerParcial",
     "picoCTF",
     "Untitled"
