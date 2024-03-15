@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/retosWeb3/Cookies.md",
+                "file": "picoCTF/forensic/Glory of the Garden.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/retosWeb3/Cookies.md",
+                "file": "picoCTF/forensic/Glory of the Garden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/retosWeb3/Cookies.md",
+                "file": "picoCTF/forensic/Glory of the Garden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/retosWeb3/Cookies.md"
+                "file": "picoCTF/forensic/Glory of the Garden.md"
               }
             }
           }
@@ -148,10 +148,16 @@
   },
   "active": "391275ee7b3d64ce",
   "lastOpenFiles": [
+    "picoCTF/forensic/shark on wire 1.md",
+    "picoCTF/forensic/Glory of the Garden.md",
+    "picoCTF/forensic/So Meta.md",
+    "picoCTF/forensic/What Lies Within.md",
+    "picoCTF/forensic/extensions.md",
+    "picoCTF/template 1.md",
+    "picoCTF/retosWeb3/Cookies.md",
+    "picoCTF/forensic",
     "picoCTF/retosWeb3/GET aHEAD.md",
     "picoCTF/retosWeb3/Scavenger Hunt.md",
-    "picoCTF/retosWeb3/Cookies.md",
-    "picoCTF/template 1.md",
     "readme.md",
     "picoCTF/retosWeb3",
     "picoCTF/PrimerParcial/retosweb2",
@@ -172,11 +178,6 @@
     "picoCTF/PrimerParcial/PW Crack 1.md",
     "picoCTF/PrimerParcial/Glitch Cat.md",
     "picoCTF/PrimerParcial/fixme2.py.md",
-    "picoCTF/PrimerParcial/fixme1.py.md",
-    "picoCTF/PrimerParcial/what's a net cat?.md",
-    "picoCTF/PrimerParcial/Nice netcat....md",
-    "picoCTF/PrimerParcial/Wave a flag.md",
-    "picoCTF/PrimerParcial/strings it.md",
     "picoCTF/retosWeb1",
     "picoCTF/PrimerParcial",
     "picoCTF",
