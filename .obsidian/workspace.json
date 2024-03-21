@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/forensic/Glory of the Garden.md",
+                "file": "picoCTF/forensic/paquetes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9300107547dfa817",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/forensic/shark on wire 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/forensic/Glory of the Garden.md",
+                "file": "picoCTF/forensic/shark on wire 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/forensic/Glory of the Garden.md",
+                "file": "picoCTF/forensic/shark on wire 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/forensic/Glory of the Garden.md"
+                "file": "picoCTF/forensic/shark on wire 2.md"
               }
             }
           }
@@ -146,19 +159,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "391275ee7b3d64ce",
+  "active": "9300107547dfa817",
   "lastOpenFiles": [
-    "picoCTF/forensic/shark on wire 1.md",
-    "picoCTF/forensic/Glory of the Garden.md",
     "picoCTF/forensic/So Meta.md",
-    "picoCTF/forensic/What Lies Within.md",
-    "picoCTF/forensic/extensions.md",
     "picoCTF/template 1.md",
+    "picoCTF/forensic/shark on wire 2.md",
+    "picoCTF/forensic/WhitePages.md",
+    "picoCTF/forensic/m00nwalk.md",
+    "picoCTF/forensic/like1000.md",
+    "picoCTF/forensic/c0rrupt.md",
+    "picoCTF/forensic/tunn3l v1s10n.md",
+    "picoCTF/forensic/MacroHard WeakEdge.md",
+    "picoCTF/forensic/Matryoshka doll.md",
+    "picoCTF/forensic/What Lies Within.md",
+    "picoCTF/forensic/WebNet1.md",
+    "readme.md",
+    "picoCTF/forensic/WebNet0.md",
+    "picoCTF/forensic/paquetes.md",
+    "picoCTF/forensic/Glory of the Garden.md",
+    "picoCTF/forensic/shark on wire 1.md",
+    "picoCTF/forensic/extensions.md",
     "picoCTF/retosWeb3/Cookies.md",
     "picoCTF/forensic",
     "picoCTF/retosWeb3/GET aHEAD.md",
     "picoCTF/retosWeb3/Scavenger Hunt.md",
-    "readme.md",
     "picoCTF/retosWeb3",
     "picoCTF/PrimerParcial/retosweb2",
     "picoCTF/retosweb2/Irish-Name-Repo 1.md",
@@ -167,17 +191,6 @@
     "picoCTF/retosweb2/JaWT Scratchpad.md",
     "picoCTF/PrimerParcial/JaWT Scratchpad.md",
     "picoCTF/retosweb2",
-    "picoCTF/PrimerParcial/Irish-Name-Repo 3.md",
-    "picoCTF/PrimerParcial/Irish-Name-Repo 2.md",
-    "picoCTF/PrimerParcial/Irish-Name-Repo 1.md",
-    "picoCTF/PrimerParcial/plumbing.md",
-    "picoCTF/PrimerParcial/Based.md",
-    "picoCTF/PrimerParcial/runme.py.md",
-    "picoCTF/PrimerParcial/PW Crack 3.md",
-    "picoCTF/PrimerParcial/PW Crack 2.md",
-    "picoCTF/PrimerParcial/PW Crack 1.md",
-    "picoCTF/PrimerParcial/Glitch Cat.md",
-    "picoCTF/PrimerParcial/fixme2.py.md",
     "picoCTF/retosWeb1",
     "picoCTF/PrimerParcial",
     "picoCTF",
