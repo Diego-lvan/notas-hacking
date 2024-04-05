@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "391275ee7b3d64ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/forensic/paquetes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9300107547dfa817",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/forensic/shark on wire 2.md",
+                "file": "picoCTF/segundoparcial/parte2/St3g0.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/forensic/shark on wire 2.md",
+                "file": "picoCTF/segundoparcial/parte2/St3g0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/forensic/shark on wire 2.md",
+                "file": "picoCTF/segundoparcial/parte2/St3g0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/forensic/shark on wire 2.md"
+                "file": "picoCTF/segundoparcial/parte2/St3g0.md"
               }
             }
           }
@@ -161,39 +148,41 @@
   },
   "active": "9300107547dfa817",
   "lastOpenFiles": [
-    "picoCTF/forensic/So Meta.md",
     "picoCTF/template 1.md",
-    "picoCTF/forensic/shark on wire 2.md",
-    "picoCTF/forensic/WhitePages.md",
-    "picoCTF/forensic/m00nwalk.md",
-    "picoCTF/forensic/like1000.md",
-    "picoCTF/forensic/c0rrupt.md",
-    "picoCTF/forensic/tunn3l v1s10n.md",
-    "picoCTF/forensic/MacroHard WeakEdge.md",
-    "picoCTF/forensic/Matryoshka doll.md",
-    "picoCTF/forensic/What Lies Within.md",
-    "picoCTF/forensic/WebNet1.md",
-    "readme.md",
-    "picoCTF/forensic/WebNet0.md",
-    "picoCTF/forensic/paquetes.md",
-    "picoCTF/forensic/Glory of the Garden.md",
-    "picoCTF/forensic/shark on wire 1.md",
-    "picoCTF/forensic/extensions.md",
-    "picoCTF/retosWeb3/Cookies.md",
+    "picoCTF/segundoparcial/parte2/St3g0.md",
+    "picoCTF/segundoparcial/parte2/Redaction gone wrong.md",
+    "picoCTF/segundoparcial/parte2/Packets Primer.md",
+    "picoCTF/segundoparcial/parte2/Lookey here.md",
+    "picoCTF/segundoparcial/parte2/information.md",
+    "picoCTF/segundoparcial/parte2/Wireshark doo dooo do doo....md",
+    "picoCTF/segundoparcial/parte2/Enhance!.md",
+    "picoCTF/segundoparcial/parte1/SQL Direct.md",
+    "picoCTF/segundoparcial/parte2",
+    "picoCTF/segundoparcial/parte1/Untitled",
+    "picoCTF/segundoparcial/parte1/Secrets.md",
+    "picoCTF/segundoparcial/parte1/Roboto Sans.md",
+    "picoCTF/segundoparcial/parte1/Power Cookie.md",
+    "picoCTF/segundoparcial/parte1/Forbidden Paths.md",
+    "picoCTF/segundoparcial/parte1/Search source.md",
+    "picoCTF/segundoparcial/parte1/Local Authority.md",
+    "picoCTF/segundoparcial/parte1/Inspect HTML.md",
+    "picoCTF/segundoparcial/parte1/Includes.md",
+    "picoCTF/picoCTF2023/Bookmarklet.md",
+    "picoCTF/segundoparcial/parte1",
+    "picoCTF/segundoparcial",
+    "picoCTF/picoCTF2023/Scan Surprise.md",
+    "picoCTF/picoCTF2023/Secret of the Polyglot.md",
+    "picoCTF/picoCTF2023/Binary Search.md",
+    "picoCTF/picoCTF2023/CanYouSee.md",
+    "picoCTF/picoCTF2023/Mob psycho.md",
+    "picoCTF/picoCTF2023/Verify.md",
+    "picoCTF/picoCTF2023/heap 0.md",
+    "picoCTF/picoCTF2023/binhexa.md",
+    "picoCTF/picoCTF2023",
     "picoCTF/forensic",
-    "picoCTF/retosWeb3/GET aHEAD.md",
-    "picoCTF/retosWeb3/Scavenger Hunt.md",
     "picoCTF/retosWeb3",
     "picoCTF/PrimerParcial/retosweb2",
-    "picoCTF/retosweb2/Irish-Name-Repo 1.md",
-    "picoCTF/retosweb2/Irish-Name-Repo 2.md",
-    "picoCTF/retosweb2/Irish-Name-Repo 3.md",
-    "picoCTF/retosweb2/JaWT Scratchpad.md",
-    "picoCTF/PrimerParcial/JaWT Scratchpad.md",
     "picoCTF/retosweb2",
-    "picoCTF/retosWeb1",
-    "picoCTF/PrimerParcial",
-    "picoCTF",
-    "Untitled"
+    "picoCTF/retosWeb1"
   ]
 }
