@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/crypto/parte2/b00tl3gRSA2.md",
+                "file": "picoCTF/crypto/parte3/ReadMyCert.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/crypto/parte2/b00tl3gRSA2.md",
+                "file": "picoCTF/crypto/parte3/ReadMyCert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/crypto/parte2/b00tl3gRSA2.md",
+                "file": "picoCTF/crypto/parte3/ReadMyCert.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/crypto/parte2/b00tl3gRSA2.md"
+                "file": "picoCTF/crypto/parte3/ReadMyCert.md"
               }
             }
           }
@@ -161,7 +161,13 @@
   "active": "9300107547dfa817",
   "lastOpenFiles": [
     "picoCTF/template 1.md",
+    "picoCTF/crypto/parte3/ReadMyCert.md",
+    "picoCTF/crypto/parte3/Pixelated.md",
+    "picoCTF/crypto/parte3/HideToSee.md",
+    "picoCTF/crypto/parte3/basic-mod1.md",
+    "picoCTF/crypto/parte3/Mind your Ps and Qs.md",
     "picoCTF/crypto/parte2/b00tl3gRSA2.md",
+    "picoCTF/crypto/parte3",
     "picoCTF/segundoparcial/parte2/Wireshark doo dooo do doo....md",
     "picoCTF/crypto/parte2/miniRSA.md",
     "picoCTF/crypto/parte2/rsa-pop-quiz.md",
@@ -183,18 +189,12 @@
     "picoCTF/segundoparcial/parte2/Enhance!.md",
     "picoCTF/segundoparcial/parte1/SQL Direct.md",
     "picoCTF/segundoparcial/parte1/Secrets.md",
-    "picoCTF/segundoparcial/parte1/Search source.md",
-    "picoCTF/segundoparcial/parte1/Roboto Sans.md",
-    "picoCTF/segundoparcial/parte1/Power Cookie.md",
-    "picoCTF/segundoparcial/parte1/Local Authority.md",
-    "picoCTF/segundoparcial/parte1/Inspect HTML.md",
     "picoCTF/segundoparcial/parte2",
     "picoCTF/segundoparcial/parte1/Untitled",
     "picoCTF/segundoparcial/parte1",
     "picoCTF/segundoparcial",
     "picoCTF/picoCTF2023",
     "picoCTF/forensic",
-    "picoCTF/retosWeb3",
-    "picoCTF/PrimerParcial/retosweb2"
+    "picoCTF/retosWeb3"
   ]
 }
