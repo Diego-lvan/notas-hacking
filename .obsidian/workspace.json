@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/crypto/parte3/ReadMyCert.md",
+                "file": "picoCTF/reversing/parte1/vault-door-5.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/crypto/parte3/ReadMyCert.md",
+                "file": "picoCTF/reversing/parte1/vault-door-5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/crypto/parte3/ReadMyCert.md",
+                "file": "picoCTF/reversing/parte1/vault-door-5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/crypto/parte3/ReadMyCert.md"
+                "file": "picoCTF/reversing/parte1/vault-door-5.md"
               }
             }
           }
@@ -161,7 +161,14 @@
   "active": "9300107547dfa817",
   "lastOpenFiles": [
     "picoCTF/template 1.md",
+    "picoCTF/reversing/parte1/vault-door-5.md",
+    "picoCTF/reversing/parte1/vault-door-4.md",
+    "picoCTF/reversing/parte1/vault-door-3.md",
+    "picoCTF/reversing/parte1/vault-door-1.md",
+    "picoCTF/reversing/parte1/vault-door-training.md",
     "picoCTF/crypto/parte3/ReadMyCert.md",
+    "picoCTF/reversing/parte1",
+    "picoCTF/reversing",
     "picoCTF/crypto/parte3/Pixelated.md",
     "picoCTF/crypto/parte3/HideToSee.md",
     "picoCTF/crypto/parte3/basic-mod1.md",
@@ -184,17 +191,10 @@
     "picoCTF/segundoparcial/parte2/St3g0.md",
     "picoCTF/segundoparcial/parte2/Redaction gone wrong.md",
     "picoCTF/segundoparcial/parte2/Packets Primer.md",
-    "picoCTF/segundoparcial/parte2/Lookey here.md",
-    "picoCTF/segundoparcial/parte2/information.md",
-    "picoCTF/segundoparcial/parte2/Enhance!.md",
-    "picoCTF/segundoparcial/parte1/SQL Direct.md",
-    "picoCTF/segundoparcial/parte1/Secrets.md",
     "picoCTF/segundoparcial/parte2",
     "picoCTF/segundoparcial/parte1/Untitled",
     "picoCTF/segundoparcial/parte1",
     "picoCTF/segundoparcial",
-    "picoCTF/picoCTF2023",
-    "picoCTF/forensic",
-    "picoCTF/retosWeb3"
+    "picoCTF/picoCTF2023"
   ]
 }
